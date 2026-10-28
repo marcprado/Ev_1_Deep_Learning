@@ -1,1 +1,1 @@
-# Ev_1_Deep_Learning
+Integrantes: Leroy Rodriguez y Marecelo Prado 
